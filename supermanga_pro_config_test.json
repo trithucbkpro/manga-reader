@@ -5,7 +5,7 @@
 	"UrlApp": "https://www.dropbox.com/s/4bi8fdlsb6mzexg/SMangaPro_Production_ver1.0.3_23-19_19-07-2020.apk?dl=1",
 	"Key18":"123456",
 	"IsDataOn": true,
-	"IsShowAds": true,
+	"IsShowAds": false,
 	"IsShowBannerCore": true,
 	"ReadTurn": 3,
 	"TurnToShowInterstitial": 3,
