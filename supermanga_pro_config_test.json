@@ -34,7 +34,7 @@
 	"KeyRobot": "123456",
 	"KeyRobotMess": "If you are not a robot, please enter code \"123456\" to continue reading Manga",
 	"IsShowRemoveAds": false,
-	"MoreStream": [21,101],
+	"MoreStream": [],
 	"WebUrlRemoveAds": "https://www.google.com",
 	"IsAdultContentOn": true,
 	"BaseUrl": "https://mangapark.net",
